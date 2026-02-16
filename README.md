@@ -30,6 +30,7 @@
 ab -n 10000 -c 500 http://47.86.55.223:8080/
 ```
 ## 测试结果
+```
 Server Software: 
 Server Hostname:        47.86.55.223
 
@@ -71,3 +72,4 @@ Percentage of the requests served within a certain time (ms)
   98%    687
   99%    700
  100%    728 (longest request)
+```
