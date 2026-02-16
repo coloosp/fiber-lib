@@ -73,3 +73,10 @@ Percentage of the requests served within a certain time (ms)
   99%    700
  100%    728 (longest request)
 ```
+# 笔记使用
+作者为协程库的每个模块编写了笔记，可以先下载Vnote来打开这些笔记（已放入）
+<img width="711" height="470" alt="image" src="https://github.com/user-attachments/assets/4fe21599-8681-4466-8d55-4e04bdc7d27f" />
+<img width="1439" height="1058" alt="image" src="https://github.com/user-attachments/assets/82f9fd08-c058-4ad2-b60e-678c0deb7312" />
+
+
+
