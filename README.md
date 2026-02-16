@@ -30,15 +30,20 @@
 ab -n 10000 -c 500 http://47.86.55.223:8080/
 ```
 ## 测试结果
-Server Software:        
+Server Software: 
 Server Hostname:        47.86.55.223
+
 Server Port:            8080
 
 Document Path:          /
+
 Document Length:        10 bytes
 
 Concurrency Level:      500
+
 Time taken for tests:   10.371 seconds
+
+
 Complete requests:      10000
 Failed requests:        0
 Total transferred:      990000 bytes
@@ -49,6 +54,7 @@ Time per request:       1.037 [ms] (mean, across all concurrent requests)
 Transfer rate:          93.22 [Kbytes/sec] received
 
 Connection Times (ms)
+
               min  mean[+/-sd] median   max
 Connect:        0    3   7.7      1      52
 Processing:    19  505  98.4    500     727
