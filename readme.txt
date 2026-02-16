@@ -1,0 +1,6 @@
+如果各位之前没有使用过markdown或者没有阅读markdown的软件可以先下载Vnote这个软件，相当实用
+fiber-lib存放了所有代码，如果不知道怎么编译运行可以点击项目每个文件夹的readme.txt
+pic存放了一些流程图和运行结果
+Compressed file存放了所有的压缩包，如果你是服务器的话上传解压即可
+markdown里面存放了所有笔记，根据各位需要阅读了解
+
